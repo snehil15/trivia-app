@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snehil15/trivia-app/static/css/main.85668437.css",
+    "main.js": "/snehil15/trivia-app/static/js/main.0e186711.js",
+    "index.html": "/snehil15/trivia-app/index.html",
+    "main.85668437.css.map": "/snehil15/trivia-app/static/css/main.85668437.css.map",
+    "main.0e186711.js.map": "/snehil15/trivia-app/static/js/main.0e186711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85668437.css",
+    "static/js/main.0e186711.js"
+  ]
+}
