@@ -1,0 +1,100 @@
+{
+  "trivia_categories": [
+    {
+      "id": 9,
+      "name": "gk"
+    },
+    {
+      "id": 10,
+      "name": "books"
+    },
+    {
+      "id": 11,
+      "name": "movies"
+    },
+    {
+      "id": 12,
+      "name": "music"
+    },
+    {
+      "id": 13,
+      "name": "theatres"
+    },
+    {
+      "id": 14,
+      "name": "tv"
+    },
+    {
+      "id": 15,
+      "name": "games"
+    },
+    {
+      "id": 16,
+      "name": "boardgames"
+    },
+    {
+      "id": 17,
+      "name": "science"
+    },
+    {
+      "id": 18,
+      "name": "computers"
+    },
+    {
+      "id": 19,
+      "name": "maths"
+    },
+    {
+      "id": 20,
+      "name": "mythology"
+    },
+    {
+      "id": 21,
+      "name": "sports"
+    },
+    {
+      "id": 22,
+      "name": "geography"
+    },
+    {
+      "id": 23,
+      "name": "history"
+    },
+    {
+      "id": 24,
+      "name": "politics"
+    },
+    {
+      "id": 25,
+      "name": "art"
+    },
+    {
+      "id": 26,
+      "name": "celebrities"
+    },
+    {
+      "id": 27,
+      "name": "animals"
+    },
+    {
+      "id": 28,
+      "name": "vehicles"
+    },
+    {
+      "id": 29,
+      "name": "comics"
+    },
+    {
+      "id": 30,
+      "name": "gadgets"
+    },
+    {
+      "id": 31,
+      "name": "anime"
+    },
+    {
+      "id": 32,
+      "name": "cartoon"
+    }
+  ]
+}
