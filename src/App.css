@@ -11,17 +11,21 @@ body {
 }
 
 .App {
-  width: 70%;
   margin: auto;
 }
 
 .trivia-container {
   background-color: #0a1929;
-  width: 70%;
+  width: 60%;
   margin: auto;
   padding: 32px;
   border-radius: 8px;
   position: relative;
+}
+@media (max-width: 800px) {
+  .trivia-container {
+    width: 95%;
+  }
 }
 
 .trivia-item {
